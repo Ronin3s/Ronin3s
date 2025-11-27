@@ -7,10 +7,11 @@
 
 ---
 
-# 📇 Dev Card
-<a href="https://app.daily.dev/ronin3s">
-  <img src="https://api.daily.dev/devcards/v2/1cd3I51oScMO9d87sgvJk.png?r=yy4&type=wide" width="652" alt="Ahmed Samy's Dev Card"/>
-</a>
+<div style="text-align: center;">
+  <a href="https://app.daily.dev/ronin3s">
+    <img src="https://api.daily.dev/devcards/v2/1cd3I51oScMO9d87sgvJk.png?r=yy4&type=wide" width="652" alt="Ahmed Samy's Dev Card"/>
+  </a>
+</div>
 
 ---
 
